@@ -1,0 +1,11 @@
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\bin\Debug\netcoreapp2.0\Webservice.deps.json
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\bin\Debug\netcoreapp2.0\Webservice.runtimeconfig.json
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\bin\Debug\netcoreapp2.0\Webservice.runtimeconfig.dev.json
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\bin\Debug\netcoreapp2.0\Webservice.dll
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\bin\Debug\netcoreapp2.0\Webservice.pdb
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\obj\Debug\netcoreapp2.0\Webservice.csprojResolveAssemblyReference.cache
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\obj\Debug\netcoreapp2.0\Webservice.csproj.CoreCompileInputs.cache
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\obj\Debug\netcoreapp2.0\Webservice.AssemblyInfoInputs.cache
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\obj\Debug\netcoreapp2.0\Webservice.AssemblyInfo.cs
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\obj\Debug\netcoreapp2.0\Webservice.dll
+C:\Users\chao.tan\source\repos\TripWebService\Webservice\obj\Debug\netcoreapp2.0\Webservice.pdb

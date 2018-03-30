@@ -1,0 +1,17 @@
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\TripWebService.dll.config
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\TripWebService.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\TripWebService.pdb
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\Newtonsoft.Json.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\System.Net.Http.Formatting.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\System.Web.Http.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\System.Web.Http.WebHost.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\Newtonsoft.Json.xml
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\System.Net.Http.Formatting.xml
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\System.Web.Http.xml
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\bin\System.Web.Http.WebHost.xml
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\obj\Debug\TripWebService.csprojResolveAssemblyReference.cache
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\obj\Debug\TripWebService.csproj.CoreCompileInputs.cache
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\obj\Debug\TripWebService.dll
+C:\Users\chao.tan\source\repos\TripWebService\TripWebService\obj\Debug\TripWebService.pdb
